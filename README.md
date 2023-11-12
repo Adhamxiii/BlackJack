@@ -39,7 +39,7 @@ The current version is a rudimentary implementation. Possible improvements can b
 
 ## Live Demo
 
-Check out the live demo of the BlackJack [here](#).
+Check out the live demo of the BlackJack [here](https://black-jack-gamma.vercel.app/).
 
 ## Contributing
 
